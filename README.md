@@ -1,2 +1,3 @@
-# COVID-19 Virus Pandemic World Map
-COVID-19 Virus Spread Analysis Web Application with Flask
+# COVID-19 Pandemic World Map
+
+This is a COVID-19 virus spread analysis web application developed with Python's  micro web framework Flask.
