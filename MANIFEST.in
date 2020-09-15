@@ -4,8 +4,11 @@ include pyproject.toml
 include README.md
 
 # Include the license file
-include LICENSE.md
+include LICENSE
 
 # Include the data files
-recursive-include data *
+recursive-include src/app/datasets *
+recursive-include src/app/templates *
+recursive-include src/app/static *
 
+global-exclude *.pyc
